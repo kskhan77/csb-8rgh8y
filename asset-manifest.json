@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://kskhan77.github.io/csb-8rgh8y/static/css/main.f20bbf56.chunk.css",
+    "main.js": "https://kskhan77.github.io/csb-8rgh8y/static/js/main.7c2f8cf1.chunk.js",
+    "main.js.map": "https://kskhan77.github.io/csb-8rgh8y/static/js/main.7c2f8cf1.chunk.js.map",
+    "runtime-main.js": "https://kskhan77.github.io/csb-8rgh8y/static/js/runtime-main.b40ee0d9.js",
+    "runtime-main.js.map": "https://kskhan77.github.io/csb-8rgh8y/static/js/runtime-main.b40ee0d9.js.map",
+    "static/js/2.b083c88f.chunk.js": "https://kskhan77.github.io/csb-8rgh8y/static/js/2.b083c88f.chunk.js",
+    "static/js/2.b083c88f.chunk.js.map": "https://kskhan77.github.io/csb-8rgh8y/static/js/2.b083c88f.chunk.js.map",
+    "index.html": "https://kskhan77.github.io/csb-8rgh8y/index.html",
+    "static/css/main.f20bbf56.chunk.css.map": "https://kskhan77.github.io/csb-8rgh8y/static/css/main.f20bbf56.chunk.css.map",
+    "static/js/2.b083c88f.chunk.js.LICENSE.txt": "https://kskhan77.github.io/csb-8rgh8y/static/js/2.b083c88f.chunk.js.LICENSE.txt",
+    "static/media/first_adhan_masjid_aadam.e2d86c91.ogg": "https://kskhan77.github.io/csb-8rgh8y/static/media/first_adhan_masjid_aadam.e2d86c91.ogg",
+    "static/media/logo.dc92a999.svg": "https://kskhan77.github.io/csb-8rgh8y/static/media/logo.dc92a999.svg",
+    "static/media/mouadin.af48ba46.png": "https://kskhan77.github.io/csb-8rgh8y/static/media/mouadin.af48ba46.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b40ee0d9.js",
+    "static/js/2.b083c88f.chunk.js",
+    "static/css/main.f20bbf56.chunk.css",
+    "static/js/main.7c2f8cf1.chunk.js"
+  ]
+}
